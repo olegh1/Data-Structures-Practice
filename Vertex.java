@@ -34,6 +34,7 @@ public class Vertex{
 public static void main(String[] args){
 
 	Vertex one = new Vertex(23);
+	System.out.println(one);
 	
 	}
 }
